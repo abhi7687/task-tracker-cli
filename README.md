@@ -3,9 +3,9 @@
 A simple command-line application to manage tasks using Node.js.
 
 ---
-# 📝 Task Tracker CLI (Node.js)
+# 📝 Project URL
 
-🔗 **Repository:** https://github.com/abhi7687/task-tracker-cli
+🔗 **Repository:** https://roadmap.sh/projects/task-tracker
 
 ---
 
