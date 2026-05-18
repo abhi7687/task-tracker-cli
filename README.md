@@ -38,6 +38,26 @@ task-tracker/
 
 ---
 
+## 📦 npm Package
+
+https://www.npmjs.com/package/@abhi7687/task-tracker-cli
+
+---
+
+## 👨‍💻 Author
+
+Vaitla Abhiram
+
+GitHub: https://github.com/abhi7687
+
+---
+
+## 📄 License
+
+ISC
+
+---
+
 ## ⚙️ Usage
 
 ```bash
@@ -66,24 +86,3 @@ task-tracker delete 1
 
 ```bash
 
----
-
-## 📦 npm Package
-
-https://www.npmjs.com/package/@abhi7687/task-tracker-cli
-
----
-
-## 👨‍💻 Author
-
-Vaitla Abhiram
-
-GitHub: https://github.com/abhi7687
-
----
-
-## 📄 License
-
-ISC
-
----
