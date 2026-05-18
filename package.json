@@ -1,10 +1,10 @@
 {
-  "name": "task-tracker-cli",
+  "name": "@abhi7687/task-tracker-cli",
   "version": "1.0.0",
   "description": "A simple command-line application to manage tasks using Node.js.",
   "main": "index.js",
   "bin": {
-    "task-cli": "./index.js"
+    "task-tracker": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,8 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/abhi7687/task-tracker-cli.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cli",
+    "task-tracker",
+    "nodejs",
+    "productivity"
+  ],
+  "author": "Vaitla Abhiram",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
