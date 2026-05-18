@@ -62,6 +62,10 @@ task-tracker delete 1
 
 ---
 
+# 🟢 Push Changes
+
+```bash
+
 ## 📦 npm Package
 
 https://www.npmjs.com/package/@abhi7687/task-tracker-cli
@@ -75,7 +79,3 @@ GitHub: https://github.com/abhi7687
 ## 📄 License
 
 ISC
-
-# 🟢 Push Changes
-
-```bash
