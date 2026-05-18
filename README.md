@@ -27,7 +27,7 @@ A simple command-line application to manage tasks using Node.js.
 ---
 
 ## 📁 Structure
-
+```text
 task-tracker/
 │── data/
 │   └── tasks.json
@@ -35,7 +35,7 @@ task-tracker/
 │   ├── fileHandler.js
 │   ├── taskService.js
 │── index.js
-
+```
 ---
 
 ## 📦 npm Package
