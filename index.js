@@ -4,11 +4,23 @@ const {
     updateTask,
     deleteTask,
     markStatus,
-    listTasks
+    listTasks,
+    showHelp,
+    showVersion
 } = require("./lib/taskService");
 
 const args = process.argv.slice(2);
 const command = args[0];
+
+if (!command || command === "help" || command === "--help" || command === "-h") {
+    showHelp();
+    process.exit(0);
+}
+
+if (command === "version" || command === "--version" || command === "-v") {
+    showVersion();
+    process.exit(0);
+}
 
 switch (command) {
     case "add":
