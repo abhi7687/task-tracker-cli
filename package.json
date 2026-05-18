@@ -1,6 +1,6 @@
 {
   "name": "@abhi7687/task-tracker-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple command-line application to manage tasks using Node.js.",
   "main": "index.js",
   "bin": {
